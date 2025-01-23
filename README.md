@@ -51,7 +51,13 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -69,34 +75,16 @@
 
 <br/>  
 
-<!--
+<!-- 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mohammadmehdihoseinii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 -->
-
-## Recent Blog Posts  
-  
-
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!---
 Mohammadmehdihoseinii/Mohammadmehdihoseinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
