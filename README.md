@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" height="" width="" />
-</div>  
-  
+
 
 ### <div align="center">I'm Mohammadmehdi hoseinii , a backend freelance developer 👨‍💻</div>  
   
